@@ -12,6 +12,37 @@
 </div>
 
 ---
+“Hidden in the labyrinth of the Alphabet is my sacred name, the Sigil of all things
+unknown,” wrote English artist and occultist, Austin Osman Spare (1886-1956).
+An influential figure in twentieth century occultism, Spare developed a magical
+technique which he named ‘sigilization’. The term relates to his theories of the
+relationship between the conscious and unconscious self. The word sigil derives
+from the Latin sigillum, meaning ‘seal’. The current use of the term is derived from
+Renaissance magic, but its roots extend to the magical traditions of Antiquity.
+Spare used a method by which the words of a statement of intent are transformed
+into an abstract design; the sigil is then charged with the will of the creator. In this
+paper, I propose that sigilization is a form of esoteric writing, of which one purpose
+is to reject formal writing systems. Instead, Spare created a private writing system
+to communicate with his unconscious self. I analyse Spare’s sigils using the
+philosophical basis of Roy Harris’ theory of semiology, which includes the use of
+private languages in the field of semiotics. It can be deduced that, in contrast to the
+exoteric nature of formal writing systems, the purpose of Spare’s sigils is to be
+esoteric.
+
+「アルファベットの迷宮に隠されているのは、私の神聖な名前であり、すべての未知のもの
+の紋章である」と、イギリスのアーティストでオカルティストのオースティン・オスマン・
+スペア（1886-1956）は書いている。20世紀のオカルティズムに影響を与えた人物であるスペ
+アは、「紋章化」と名付けた魔術技法を開発した。この言葉は、意識と無意識の自己の関係
+についての彼の理論に関連している。シギルという言葉は、ラテン語で「封印」を意味する
+sigillumに由来する。現在のこの用語の使用はルネサンス魔術に由来するが、そのルーツは古
+代の魔術的伝統にまで及ぶ。スペアは、意思表明の言葉を抽象的なデザインに変換する方法
+を用いた。この論文で私は、紋章化は秘教的な筆記体の一形態であり、その目的のひとつは
+正式な筆記体を否定することであると提唱する。その代わりに、スペアは無意識の自己と交
+信するための私的な筆記体系を作り上げた。私は、ロイ・ハリスの論の哲学的基礎を用いて
+スペアの紋章を分析する。形式的な文字システムの外向的な性質とは対照的に、スペアの紋
+章の目的は秘教的であることだと推論できる。
+
+---
 
 # 『オースティン・オスマン・スペアの紋章の魔術体系』翻訳Zine
 
@@ -104,6 +135,11 @@ Zineの巻末には以下を収録予定：
 👉 [クリックして読む](appendix.md)
 
 ---
+
+## 🔖 この論文の著者について
+
+
+----
 
 ## 🔖 免責・著作権に関する注意
 
