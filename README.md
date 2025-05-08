@@ -64,7 +64,7 @@ ZOS＝手、KIA＝目という象徴系の提示と、その意味するとこ�
 - Death Posture / Emotional Charge
 - Alphabet of Desire との関連
 
-👉 [クリックして読む](04_sizil_magic.md)
+👉 [クリックして読む](04_sigil_magic.md)
 
 ---
 
