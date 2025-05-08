@@ -142,7 +142,7 @@ Riikka Ala-Hakula はフィンランド・ユヴァスキュラ大学の研究�
 
 [👉雑誌の紹介記事](https://ylioppilaslehti.fi/2017/02/riikka-ala-hakula-teki-pioneeritutkimuksen-aseemisesta-kirjoituksesta/)
 
-このZineは、Riikka Ala-Hakulaによる論文「The Magical System of Austin Osman Spare's Sigils」（Brill出版、2021年）に基づいています。原文は以下から参照できる。
+このZineは、Riikka Ala-Hakulaによる論文「The Magical System of Austin Osman Spare's Sigils」（Brill出版、2021年）に基づいている。
 
 [👉論文へのリンク](https://brill.com/display/book/edcoll/9781848884397/BP000006.xml)
 
