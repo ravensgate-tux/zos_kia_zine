@@ -151,7 +151,8 @@ Ala-Hakula氏は、オースティン・オスマン・スペアの紋章魔術�
 Riikka Ala-Hakula はフィンランド・ユヴァスキュラ大学の研究者であり、アセミック・ライティングとオースティン・スペアの紋章魔術に関する研究を行っている。
 
 彼女の活動とインタビューは以下で紹介されている：
-https://ylioppilaslehti.fi/2023/01/riikka-ala-hakula-tekee-pioneeritutkimuksen-aseemisesta-kirjoituksesta/
+[
+](https://ylioppilaslehti.fi/2017/02/riikka-ala-hakula-teki-pioneeritutkimuksen-aseemisesta-kirjoituksesta/)
 
 ----
 
