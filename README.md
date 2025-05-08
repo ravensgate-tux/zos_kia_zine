@@ -13,7 +13,7 @@
 
 ---
 
-# Riikka Ala-Hakula（リーッカ・アラ＝ハクラ）による前書き
+### Riikka Ala-Hakula（リーッカ・アラ＝ハクラ）による前書き
 
 “Hidden in the labyrinth of the Alphabet is my sacred name, the Sigil of all things unknown,” wrote English artist and occultist, Austin Osman Spare (1886-1956). An influential figure in twentieth century occultism, Spare developed a magical technique which he named ‘sigilization’. The term relates to his theories of the relationship between the conscious and unconscious self. The word sigil derives from the Latin sigillum, meaning ‘seal’. The current use of the term is derived from Renaissance magic, but its roots extend to the magical traditions of Antiquity. Spare used a method by which the words of a statement of intent are transformed into an abstract design; the sigil is then charged with the will of the creator. In this paper, I propose that sigilization is a form of esoteric writing, of which one purpose is to reject formal writing systems. Instead, Spare created a private writing system to communicate with his unconscious self. I analyse Spare’s sigils using the philosophical basis of Roy Harris’ theory of semiology, which includes the use of private languages in the field of semiotics. It can be deduced that, in contrast to the exoteric nature of formal writing systems, the purpose of Spare’s sigils is to be esoteric.
 
