@@ -1,6 +1,6 @@
 # 『オースティン・オスマン・スペアの紋章の魔術体系』翻訳Zine
 
-このZineは、Riikka Ala-Hakula による論文 “The Magical System of Austin Osman Spare's Sigils” の全文を、翻訳と注釈を通して再構成したものです。
+このZineは、Riikka Ala-Hakula による論文 “The Magical System of Austin Osman Spare's Sigils” の全文を、翻訳と注釈を通して再構成したものである。
 
 本論文は、オースティン・オスマン・スペアが提唱した紋章魔術（Sigil Magic）を、記号論・芸術理論・身体性の観点から分析するものであり、ZOS/KIAの理解とシジル化技術の背景を探る貴重な資料である。
 
