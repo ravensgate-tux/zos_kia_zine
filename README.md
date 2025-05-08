@@ -136,22 +136,12 @@ Zineの巻末には以下を収録予定：
 
 ---
 
-## 🔖 Riikka Ala-Hakula（リーッカ・アラ＝ハクラ）について
-
-Riikka Ala-Hakula（1985年生まれ）は、フィンランド・ユヴァスキュラ大学の博士課程に所属する研究者・翻訳家・詩人である。彼女の研究テーマは、アセミック・ライティング（asemic writing）──意味を持たない、または読むことが意図されていない記述行為──に関するもので、これは言語、芸術、オカルティズムをまたぐ多層的な表現領域である。
-
-Ala-Hakula氏は、オースティン・オスマン・スペアの紋章魔術（Sigil Magic）を、エソテリック・ライティング（秘教的記述）および記号論的表現の観点から再評価するという先駆的研究を行っている。とくに彼女の論文「The Magical System of Austin Osman Spare's Sigils」は、Spareの象徴理論と身体性、そして非音声的記号の持つ詩的・魔術的機能を詳細に分析した内容となっており、現代の魔術理論にとって極めて重要な文献のひとつである。
-
-また、彼女は翻訳家としても活動しており、フランスの詩人アンリ・ミショーの作品などをフィンランド語に翻訳している。詩人としても『Kaupunkikaleidoskooppi（都市の万華鏡）』などの著作を持ち、都市空間・記号・イメージの交差点に立つ文筆活動を展開している。
-
-国際的な芸術／秘教イベント「Trans-States」などにも登壇し、Spareの思想とアセミック・ライティング、さらにはポスト構造主義と魔術の接点を探る独自の視座を提示し続けている。
-
-## 著者について
+## 🔖 Riikka Ala-Hakula（リーッカ・アラ＝ハクラ）とこの論文について
 
 Riikka Ala-Hakula はフィンランド・ユヴァスキュラ大学の研究者であり、アセミック・ライティングとオースティン・スペアの紋章魔術に関する研究を行っている。
+[彼女の活動とインタビューは以下で紹介されている👉](https://ylioppilaslehti.fi/2023/01/riikka-ala-hakula-tekee-pioneeritutkimuksen-aseemisesta-kirjoituksesta/)
 
-[👉活動とインタビューの紹介（Ylioppilaslehti）](https://ylioppilaslehti.fi/2017/02/riikka-ala-hakula-teki-pioneeritutkimuksen-aseemisesta-kirjoituksesta/)
-
+このZineは、Riikka Ala-Hakulaによる論文「The Magical System of Austin Osman Spare's Sigils」（Brill出版、2021年）に基づいています。原文は以下から参照できます：
 [👉論文へのリンク](https://brill.com/display/book/edcoll/9781848884397/BP000006.xml)
 
 ----
