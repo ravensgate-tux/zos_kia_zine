@@ -13,10 +13,9 @@ sigillize this desire, he put down on a piece of paper all the letters of which 
 sentence is composed, avoiding repetitions. Then, the sequence of letters is
 combined to form a single glyph.
 
-
-
-
-
+<div align="center">
+ <img src="sigil_zos-kia.png" width="300">
+</div>
 
 Next, Spare stresses that after the wish has been sigillized, it has to be forgotten.
 Its creator must resist thinking about it consciously.xiii Instead, the creator must
