@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
- <img src="spare.png" width="300">
+ <img src="spare.png" width="500">
 </div>
 
 ---
